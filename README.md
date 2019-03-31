@@ -3,7 +3,7 @@
 ## Before getting started
 The SDK works on all Android versions from `4.0.0` and above.
 
-It uses the following permissions:
+The folowing SDK uses the permissions:
 * ACCESS_FINE_LOCATION / ACCESS_COARSE_LOCATION - Requested to access location.
 * INTERNET - Requested to access Predicio services.
 * ACCESS_NETWORK_STATE - Requested to get carrier information
