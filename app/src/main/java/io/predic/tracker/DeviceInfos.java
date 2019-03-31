@@ -49,6 +49,7 @@ class DeviceInfos {
         updateCarrierName();
 
         String params = "";
+        
         try{
             params += "OS=" + URLEncoder.encode(OS, "UTF-8");
             params += "&OSV=" + URLEncoder.encode(OSVersion, "UTF-8");
