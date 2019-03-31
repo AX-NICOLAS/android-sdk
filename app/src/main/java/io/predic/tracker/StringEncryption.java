@@ -26,6 +26,7 @@ class StringEncryption {
     }
 
     static String getSHA1(String text) {
+        
         try {
             byte[] idInBytes = text.getBytes("UTF-8");
             MessageDigest md = MessageDigest.getInstance("SHA-1");
