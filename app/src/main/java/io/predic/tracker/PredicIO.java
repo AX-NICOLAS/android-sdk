@@ -44,7 +44,6 @@ import static io.predic.tracker.Configuration.INTERVAL_TRACKING_IDENTITY;
 import static io.predic.tracker.Configuration.INTERVAL_TRACKING_LOCATION;
 
 public class PredicIO {
-
     static final String ACTION_TRACK_LOCATION           = "io.predic.tracker.action.TRACK_LOCATION";
     static final String ACTION_TRACK_IDENTITY           = "io.predic.tracker.action.TRACK_IDENTITY";
     static final String ACTION_TRACK_APPS               = "io.predic.tracker.action.TRACK_APPS";
