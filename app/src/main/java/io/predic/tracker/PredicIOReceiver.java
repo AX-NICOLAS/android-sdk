@@ -13,7 +13,6 @@ import com.google.android.gms.location.LocationServices;
 import com.google.android.gms.tasks.OnSuccessListener;
 
 import org.json.JSONObject;
-
 import static android.content.Intent.ACTION_BOOT_COMPLETED;
 
 public class PredicIOReceiver extends BroadcastReceiver {
