@@ -16,7 +16,6 @@ class FetchAdvertisingInfoTask extends AsyncTask<Void, Void, Void> {
 
     private Context context;
     private FetchAdvertisingInfoTaskCallback callback;
-
     private AdvertisingIdClient.Info info;
 
     FetchAdvertisingInfoTask(Context context, FetchAdvertisingInfoTaskCallback callback) {
